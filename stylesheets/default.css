@@ -1,0 +1,35 @@
+h1 {
+  font-family: 'Julius Sans One', sans-serif;
+  text-align: center;
+}
+
+.nav {
+  margin-top: 5%;
+  text-align: center;
+  text-decoration: none;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+hr {
+  border-bottom: solid black 1px;
+}
+
+.img-responsive {
+  margin: auto;
+  max-width: 650px;
+  max-height: 400px
+}
+
+footer {
+  background-color: black;
+  min-height: 60px;
+}
+
